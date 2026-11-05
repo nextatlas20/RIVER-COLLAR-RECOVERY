@@ -1,0 +1,1 @@
+Field note: poor fixes may be useful for diagnostics, but dispatch publication follows the sealed protocol in the task request.

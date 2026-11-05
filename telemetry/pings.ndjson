@@ -1,0 +1,15 @@
+{"format":"riverwatch-ping-v1"}
+{"collar_id":"RC-201","observed_at":"2058-09-12T09:30:00Z","battery_pct":29,"fix_quality":"GOOD"}
+{"collar_id":"RC-202","observed_at":"2058-09-14T11:00:00Z","battery_pct":38,"fix_quality":"GOOD"}
+{"collar_id":"RC-203","observed_at":"2058-09-13T07:00:00Z","battery_pct":18,"fix_quality":"POOR"}
+{"collar_id":"RC-204","observed_at":"2058-09-15T10:15:00Z","battery_pct":18,"fix_quality":"GOOD"}
+{"collar_id":"RC-205","observed_at":"2058-09-15T17:59:59Z","battery_pct":70,"fix_quality":"GOOD"}
+{"collar_id":"RC-206","observed_at":"2058-09-10T06:00:00Z","battery_pct":46,"fix_quality":"GOOD"}
+{"collar_id":"RC-201","observed_at":"2058-09-15T08:00:00Z","battery_pct":22,"fix_quality":"GOOD"}
+{"collar_id":"RC-204","observed_at":"2058-09-15T10:15:00Z","battery_pct":15,"fix_quality":"GOOD"}
+{"collar_id":"RC-203","observed_at":"2058-09-16T07:00:00Z","battery_pct":10,"fix_quality":"GOOD"}
+{"collar_id":"RC-999","observed_at":"2058-09-14T07:00:00Z","battery_pct":9,"fix_quality":"GOOD"}
+{"collar_id":"RC-202","observed_at":"2058-09-15T12:00:00+00:00","battery_pct":12,"fix_quality":"GOOD"}
+{"collar_id":"RC-205","observed_at":"2058-09-15T18:00:00Z","battery_pct":true,"fix_quality":"GOOD"}
+{"collar_id":"RC-206","observed_at":"2058-04-01T08:00:00Z","battery_pct":12,"fix_quality":"GOOD"}
+{"collar_id":"RC-203","observed_at":"2058-09-14T06:00:00Z","battery_pct":12,"fix_quality":"POOR"
