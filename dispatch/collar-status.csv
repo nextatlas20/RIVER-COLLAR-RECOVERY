@@ -1,0 +1,7 @@
+collar_id,species,zone,deployed_on,retrieval_threshold_pct,selected_observed_at,battery_pct,status
+RC-203,American Beaver,North Fork,2058-01-18,20,-,-,NO_SIGNAL
+RC-201,River Otter,Delta,2058-02-10,25,2058-09-15T08:00:00Z,22,RECOVER
+RC-204,Painted Turtle,Delta,2058-04-22,15,2058-09-15T10:15:00Z,15,RECOVER
+RC-202,Great Blue Heron,Marsh,2058-03-01,30,2058-09-14T11:00:00Z,38,WATCH
+RC-205,American Mink,Marsh,2058-02-28,20,2058-09-15T17:59:59Z,70,ACTIVE
+RC-206,Osprey,North Fork,2058-05-06,35,2058-09-10T06:00:00Z,46,ACTIVE
